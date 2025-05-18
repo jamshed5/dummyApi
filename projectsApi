@@ -1,0 +1,42 @@
+[
+  {
+    "category": "development",
+    "type": "personal portfolio",
+    "title": "My Personal Portfolio in Django",
+    "description": "This is my personal portfolio.",
+    "tags": ["python", "django"],
+    "postedBy": "admin"
+  },
+  {
+    "category": "development",
+    "type": "e-commerce",
+    "title": "React + Node E-Commerce App",
+    "description": "A full-stack shopping cart with payment integration.",
+    "tags": ["react", "node", "mongoDB"],
+    "postedBy": "jane_doe"
+  },
+  {
+    "category": "design",
+    "type": "UI Kit",
+    "title": "Mobile App UI Kit",
+    "description": "A modern UI kit for mobile apps using Figma.",
+    "tags": ["figma", "ui", "design"],
+    "postedBy": "designer123"
+  },
+  {
+    "category": "development",
+    "type": "blog",
+    "title": "Tech Blog with Next.js",
+    "description": "A blog for writing and sharing articles about programming.",
+    "tags": ["next.js", "react", "markdown"],
+    "postedBy": "admin"
+  },
+  {
+    "category": "marketing",
+    "type": "landing page",
+    "title": "Product Launch Landing Page",
+    "description": "A high-converting landing page for a product launch.",
+    "tags": ["html", "css", "javascript"],
+    "postedBy": "marketing_team"
+  }
+]
